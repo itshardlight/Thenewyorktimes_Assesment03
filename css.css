@@ -1,0 +1,119 @@
+* {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 3px;
+  margin-bottom: 15px;
+}
+.red {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 10px;
+  font-family: nyt-franklin, helvetica, arial, sans-serif;
+}
+.childred2 {
+  display: flex;
+  gap: 10px;
+}
+.green {
+  color: green;
+  display: flex;
+  justify-content: space-between;
+}
+.greenchild2 {
+  font-size: 40px;
+}
+
+.purple {
+  color: purple;
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+}
+.hr {
+  height: 1px;
+  background-color: black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.body {
+  display: flex;
+  /* border: solid purple; */
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.content {
+  width: 70%;
+  /* border: solid black; */
+  margin: 0px;
+}
+.line {
+  border-left: solid 1px rgba(94, 94, 94, 0.587);
+}
+.sidebar {
+  width: 30%;
+  /* border: solid rgb(255, 0, 0); */
+  margin: 0px;
+}
+.content2 {
+  /* border: solid red; */
+  margin: 0px;
+}
+.apple {
+  color: brown;
+  /* border: solid black; */
+  display: flex;
+  margin: 0px;
+}
+.applesub1 {
+  /* border: solid red; */
+  margin-left: -20px;
+
+  width: 40%;
+}
+.applesub2 {
+  /* border: solid red; */
+
+  width: 60%;
+}
+.img1 {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
+.sbc1 {
+  /* border: solid blue; */
+  margin: auto;
+}
+footer {
+  /* border: solid purple; */
+  margin: 0px;
+}
+.footer1 {
+  /* border: solid red; */
+  margin: 0px;
+  display: flex;
+  margin-top: 30px;
+  
+}
+.footer2 {
+  /* border:solid green; */
+  margin: 0px;
+  display: flex;
+  font-size: 10px;
+}
+
+.f1 {
+  /* border: solid black; */
+  display: flex;
+  flex-direction: column;
+  line-height: auto;
+  text-decoration: none;
+  color: black;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
